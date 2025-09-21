@@ -396,7 +396,7 @@ a{
 }
 
 /* ===== Responsive ===== */
-@media (max-width: 980px){
+@media (max-width: 1024px){
   .hero__inner{grid-template-columns:1fr;gap:18px}
   .hero__angle{display:none}
   .strip__inner{grid-template-columns:1fr}
